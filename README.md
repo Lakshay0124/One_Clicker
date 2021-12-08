@@ -1,6 +1,6 @@
 # One_Clicker
 how to run -- 
-
+0.you will need smtplib, ssl module and python3
 1.so you need to write app password specifically which you can view by using this link https://support.google.com/mail/answer/185833?hl=en-GB
 in password_gmail.txt after that 
 2.type your mail id in your_mail.txt file 
